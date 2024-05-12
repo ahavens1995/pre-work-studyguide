@@ -29,4 +29,4 @@ Reference this when you need a refresher on beginner information.
 N/A
 
 ## License
-Please refer to the LICENSE in the r
+Please refer to the LICENSE in the repo
